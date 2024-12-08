@@ -10,7 +10,7 @@ ChatGPT describes D&D.Sci as follows:
 > 
 > Engaging with D&D.Sci scenarios provides an interactive way to practice data analysis, critical thinking, and problem-solving within a structured yet imaginative framework.
 
-Click [here](https://www.lesswrong.com/posts/6QfatwCcmuaDBNeDv/d-and-d-sci-scenario-index#fnn1xxz81goh) to see D&D.Sci Scenario Index.
+Click [here](https://www.lesswrong.com/posts/6QfatwCcmuaDBNeDv/d-and-d-sci-scenario-index) to see D&D.Sci Scenario Index.
 
 # Index of my solutions for D&D.Sci scenarios
 
