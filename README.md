@@ -1,6 +1,6 @@
 # What is D&D.Sci?
 
-ChatGPT explains the meaning of D&D.Sci as follows:
+ChatGPT describes D&D.Sci as follows:
 
 > D&D.Sci, short for "Dungeons and Data Science," is a series of analytical exercises featured on the LessWrong community blog. These exercises present participants with datasets derived from fictional scenarios, often inspired by Dungeons & Dragons themes. The objective is to analyze the data to identify patterns and make informed decisions, thereby enhancing skills in data analysis and rational thinking.
 > 
